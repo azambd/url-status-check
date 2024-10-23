@@ -54,6 +54,7 @@ The following fields are included in the output:
 
 ## Usage
 This solution can be used to:
+- Scan all pages and internal links to ensure there are no 404 Not Found errors, **helping to prevent Google Search Console from flagging 404 and internal dead links** .
 - Identify the availability and status of business URLs.
 - Detect broken links (e.g., **404 Not Found**).
 - Provide a summary analysis of the URL statuses to monitor website health and accessibility.
